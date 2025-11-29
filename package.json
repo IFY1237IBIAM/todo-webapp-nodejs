@@ -1,0 +1,16 @@
+{
+  "name": "todo-web-app",
+  "version": "1.0.0",
+  "description": "This is a browser-based To-Do List Web App built with HTML, CSS, and JavaScript. Users can add, delete, and mark tasks as complete. Tasks are saved in the browser's local storage so they persist across sessions.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
