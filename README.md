@@ -20,7 +20,7 @@ npm install express
 
 ## Demo Video
 Watch the video walkthrough here:  
-[Demo Video Link](https://www.youtube.com/watch?v=_FzdegeWrpQ)  
+[Demo Video Link](https://www.youtube.com/watch?v=VyryXszgmK4)  
 
 ---
 
@@ -28,4 +28,4 @@ Watch the video walkthrough here:
 To run this project locally:  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/todo-list-webapp.git
+   git clone https://github.com/IFY1237IBIAM/todo-webapp-nodejs.git
